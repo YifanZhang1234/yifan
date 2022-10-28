@@ -1,0 +1,446 @@
+﻿Region,Suburb,Population,Area,PopulationDensity
+Yarra,Collingwood,10372,1.3,8185.6
+Yarra,Fitzroy,11720,1.4,8505.1
+Moreland - North,Gowanbrae,3120,1.5,2049.3
+Melbourne City,South Yarra - West,6919,1.5,4604.4
+Hobsons Bay,Seabrook,5516,1.6,3405.1
+Essendon,Flemington,11189,1.6,7078.1
+Yarra,Abbotsford,9848,1.7,5658.1
+Maribyrnong,Seddon - Kingsville,10011,1.7,5957.9
+Melton - Bacchus Marsh,Burnside Heights,6688,2,3351.9
+Glen Eira,Hughesdale,8283,2,4121.7
+Melbourne City,Kensington (Vic.),11862,2.1,5524.9
+Stonnington - West,Armadale,10302,2.2,4718.1
+Brunswick - Coburg,Brunswick East,13293,2.2,6131.5
+Yarra,Carlton North - Princes Hill,9175,2.3,3981.9
+Melbourne City,Docklands,14951,2.4,6117.4
+Port Phillip,St Kilda East,18253,2.4,7562.9
+Glen Eira,Murrumbeena,9988,2.5,3971.7
+Port Phillip,South Melbourne,13162,2.5,5275.8
+Yarra,Fitzroy North,13609,2.5,5432.5
+Melton - Bacchus Marsh,Burnside,5296,2.6,2075.2
+Whittlesea - Wallan,Bundoora - West,6623,2.6,2587
+Port Phillip,Elwood,16623,2.6,6511.2
+Keilor,Niddrie - Essendon West,7604,2.8,2713.1
+Boroondara,Ashburton (Vic.),8248,2.8,2907.7
+Port Phillip,Port Melbourne,17836,2.8,6394.2
+Maroondah,Croydon South,4917,2.9,1721.6
+Melbourne City,East Melbourne,5739,2.9,1979.1
+Darebin - South,Alphington - Fairfield,9772,2.9,3386.8
+Glen Eira,Elsternwick,12495,2.9,4366.4
+Glen Eira,Ormond - Glen Huntly,14514,2.9,4941.6
+Stonnington - West,Prahran - Windsor,22027,2.9,7581.4
+Brunswick - Coburg,Pascoe Vale South,10968,3,3669.8
+Moreland - North,Hadfield,6036,3.1,1979
+Melbourne City,Southbank,24376,3.1,7929
+Kingston,Chelsea Heights,5597,3.2,1751.4
+Brunswick - Coburg,Brunswick West,15162,3.2,4768.7
+Melbourne City,North Melbourne,25331,3.2,7796.1
+Whitehorse - West,Surrey Hills (East) - Mont Albert,10602,3.3,3185.8
+Brimbank,Delahey,8831,3.5,2519.2
+Whitehorse - West,Blackburn South,11397,3.6,3168.8
+Darebin - North,Preston - West,13363,3.6,3745.3
+Keilor,Airport West,8280,3.7,2226.2
+Dandenong,Noble Park North,7927,3.8,2109.7
+Banyule,Watsonia,9678,3.8,2556.5
+Dandenong,Noble Park - East,13496,3.8,3582.6
+Essendon,Ascot Vale,16254,3.8,4237.1
+Boroondara,Hawthorn East,16983,3.8,4441.2
+Glen Eira,Carnegie,20126,3.8,5290.3
+Tullamarine - Broadmeadows,Tullamarine,6824,3.9,1768.1
+Brimbank,Sydenham,12765,3.9,3233.4
+Port Phillip,St Kilda,29861,3.9,7654.7
+Boroondara,Kew East,6913,4,1721.6
+Melbourne City,Parkville,8434,4,2082.9
+Tullamarine - Broadmeadows,Craigieburn - Central,8864,4,2233.5
+Keilor,Strathmore,10372,4.1,2502.7
+Banyule,Bundoora - East,10459,4.1,2566.7
+Whitehorse - East,Forest Hill,11385,4.1,2797.2
+Knox,Rowville - North,8383,4.2,2010.9
+Banyule,Ivanhoe East - Eaglemont,8251,4.3,1929.2
+Whitehorse - West,Burwood East,10971,4.3,2573.5
+Stonnington - West,Toorak,14182,4.3,3280.4
+Brimbank,Cairnlea,10568,4.4,2398.5
+Brimbank,Kings Park (Vic.),14644,4.4,3303.9
+Essendon,Moonee Ponds,15724,4.4,3610.5
+Kingston,Mentone,14003,4.5,3146.7
+Brimbank,Ardeer - Albion,8455,4.6,1842.7
+Whitehorse - East,Vermont,11174,4.6,2424
+Dandenong,Springvale South,13368,4.6,2931.6
+Glen Eira,Bentleigh East (South),14189,4.6,3092.5
+Tullamarine - Broadmeadows,Meadow Heights,15835,4.6,3423.6
+Glen Eira,Bentleigh East (North),16026,4.6,3484.7
+Whittlesea - Wallan,Bundoora - North,8491,4.7,1800.8
+Maroondah,Ringwood North,10099,4.7,2134.8
+Brimbank,Sunshine,10534,4.7,2226.1
+Port Phillip,Albert Park,17197,4.7,3678.7
+Glen Eira,Caulfield - South,18758,4.7,3955.2
+Manningham - West,Doncaster East (South),15133,4.8,3173.6
+Dandenong,Noble Park - West,19986,4.8,4168.5
+Moreland - North,Coburg North,8666,4.9,1776.6
+Whittlesea - Wallan,Mill Park - South,12483,4.9,2532.2
+Casey - North,Narre Warren - North East,14169,4.9,2907.1
+Banyule,Ivanhoe,12676,5,2510.1
+Whitehorse - West,Burwood,14181,5,2814.1
+Maribyrnong,Footscray,18623,5,3749.3
+Darebin - South,Thornbury,20141,5,4030.5
+Whitehorse - East,Nunawading,12836,5.1,2527.5
+Kingston,Edithvale - Aspendale,13756,5.1,2697.2
+Moreland - North,Fawkner,14964,5.1,2942.9
+Brunswick - Coburg,Brunswick,29170,5.1,5672.3
+Yarra,Yarra - North,9878,5.2,1896.4
+Casey - North,Doveton,12208,5.2,2350.7
+Kingston,Aspendale Gardens - Waterways,9489,5.3,1787.9
+Bayside,Cheltenham - Highett (West),12140,5.3,2282
+Kingston,Chelsea - Bonbeach,15389,5.4,2837.7
+Maribyrnong,Maribyrnong,13780,5.5,2508.5
+Casey - North,Endeavour Hills - South,14090,5.6,2521.8
+Maribyrnong,Yarraville,16231,5.6,2888.2
+Bayside,Brighton East,16879,5.6,3009.6
+Boroondara,Balwyn,17062,5.6,3055
+Knox,The Basin,4478,5.7,783.4
+Boroondara,Surrey Hills (West) - Canterbury,17391,5.7,3049.7
+Boroondara,Glen Iris - East,17548,5.7,3076
+Bayside,Hampton,19098,5.7,3359.6
+Boroondara,Hawthorn,25511,5.7,4497.6
+Geelong,Newtown (Vic.),10718,5.8,1845.4
+Kingston,Carrum - Patterson Lakes,12550,5.8,2154.8
+Manningham - West,Templestowe Lower,14449,5.9,2433.1
+Maribyrnong,West Footscray - Tottenham,12610,6,2108.4
+Bayside,Beaumaris,14604,6,2447.1
+Melton - Bacchus Marsh,Taylors Hill,20916,6,3504.8
+Darebin - South,Northcote,27516,6.1,4477.8
+Whitehorse - East,Vermont South,12386,6.2,2002.9
+Casey - South,Narre Warren South (East),13870,6.2,2229.8
+Tullamarine - Broadmeadows,Craigieburn - West,18556,6.2,2987.2
+Whitehorse - West,Box Hill North,18961,6.2,3053.9
+Stonnington - East,Malvern - Glen Iris,21607,6.2,3510.4
+Glen Eira,Bentleigh - McKinnon,24503,6.2,3936.7
+Yarra,Richmond (Vic.),34646,6.2,5576.8
+Dandenong,Clarinda - Oakleigh South,12359,6.3,1954.7
+Brimbank,St Albans - South,18482,6.3,2950.2
+Manningham - West,Doncaster East (North),15567,6.4,2431.2
+Banyule,Heidelberg - Rosanna,16127,6.4,2531
+Bayside,Sandringham - Black Rock,18028,6.4,2803.7
+Glen Eira,Caulfield - North,23259,6.4,3623.5
+Monash,Mount Waverley - North,16326,6.5,2517.9
+Brimbank,St Albans - North,21682,6.5,3324.2
+Whitehorse - East,Mitcham (Vic.),17390,6.6,2624.1
+Manningham - West,Bulleen,11763,6.7,1763.3
+Banyule,Heidelberg West,15347,6.7,2293.6
+Monash,Ashwood - Chadstone,20195,6.7,3010.3
+Maroondah,Croydon - West,14417,6.8,2120.8
+Casey - South,Narre Warren South (West),17824,6.8,2630.1
+Brunswick - Coburg,Coburg,28654,6.9,4132
+Knox,Ferntree Gully (North),14517,7,2078.3
+Wyndham,Hoppers Crossing - South,20605,7,2938.8
+Melton - Bacchus Marsh,Caroline Springs,21726,7,3124.9
+Whitehorse - West,Box Hill,22608,7,3224.2
+Moreland - North,Pascoe Vale,26415,7,3782
+Dandenong,Dingley Village,10686,7.2,1475.2
+Hobsons Bay,Williamstown,16929,7.3,2304.4
+Boroondara,Camberwell,23010,7.3,3155.6
+Whittlesea - Wallan,Epping - West,12769,7.4,1735.6
+Casey - South,Lynbrook - Lyndhurst,17130,7.4,2328
+Maribyrnong,Braybrook,20132,7.5,2689.9
+Stonnington - East,Malvern East,23464,7.6,3100.9
+Whittlesea - Wallan,South Morang (South),12696,7.7,1639.4
+Brimbank,Keilor Downs,13909,7.7,1815.9
+Monash,Glen Waverley - West,20672,7.7,2693.1
+Darebin - North,Preston - East,22395,7.7,2891.3
+Whittlesea - Wallan,Epping - East,14006,7.8,1802.8
+Wyndham,Werribee - East,20983,7.8,2705.1
+Dandenong,Clayton South,13818,7.9,1740.7
+Brimbank,Sunshine North,12485,8,1556
+Knox,Bayswater,12894,8,1603
+Kingston,Mordialloc - Parkdale,21576,8,2707.8
+Casey - North,Hallam,11628,8.1,1443.3
+Maroondah,Croydon - East,16366,8.1,2020.9
+Whittlesea - Wallan,Mill Park - North,18745,8.1,2303.9
+Yarra Ranges,Kilsyth,9657,8.2,1171.6
+Knox,Rowville - Central,15938,8.2,1943.6
+Bayside,Brighton (Vic.),24969,8.2,3044.8
+Knox,Wantirna,14590,8.3,1756.5
+Essendon,Essendon - Aberfeldie,30368,8.4,3596.8
+Wyndham,Point Cook - North,25328,8.5,2983.1
+Whitehorse - West,Blackburn,23048,8.6,2677.6
+Monash,Mount Waverley - South,20001,8.7,2298.8
+Kingston,Cheltenham - Highett (East),24584,8.7,2813.6
+Tullamarine - Broadmeadows,Broadmeadows,14424,8.8,1634.1
+Hobsons Bay,Newport,19179,8.8,2169.4
+Boroondara,Balwyn North,21692,8.8,2451.3
+Manningham - West,Doncaster,23396,8.8,2666.6
+Yarra Ranges,Upwey - Tecoma,10049,8.9,1130.3
+Moreland - North,Glenroy,24508,8.9,2766.7
+Darebin - North,Kingsbury,13037,9,1447.1
+Darebin - North,Reservoir - East,29552,9,3295.9
+Knox,Ferntree Gully (South) - Upper Ferntree Gully,15336,9.1,1676.1
+Monash,Glen Waverley - East,22392,9.2,2443.3
+Casey - North,Narre Warren - South West,14887,9.3,1599.8
+Knox,Rowville - South,10963,9.4,1172.1
+Geelong,Belmont,14608,9.4,1559.4
+Wyndham,Point Cook - South,18375,9.4,1950.2
+Maroondah,Ringwood East,21542,9.4,2293.4
+Monash,Clayton,26722,9.4,2839.4
+Maroondah,Croydon Hills - Warranwood,18838,9.5,1984.6
+Dandenong,Dandenong North,23911,9.5,2527.9
+Maroondah,Bayswater North,12470,9.9,1258.5
+Maroondah,Ringwood,18484,9.9,1865.1
+Banyule,Greensborough,21563,10.1,2135.5
+Banyule,Viewbank - Yallambie,19214,10.2,1876.8
+Monash,Oakleigh - Huntingdale,23580,10.2,2318.5
+Casey - South,Cranbourne North,23884,10.2,2332.6
+Darebin - North,Reservoir - West,25833,10.2,2544
+Monash,Wheelers Hill,21010,10.4,2012.6
+Yarra Ranges,Montrose,7155,10.5,678.6
+Hobsons Bay,Altona Meadows,20407,10.5,1936.2
+Boroondara,Kew,26904,10.5,2554
+Monash,Mulgrave,20896,10.7,1949.5
+Wyndham,Hoppers Crossing - North,20292,10.9,1859.3
+Keilor,Keilor East,28103,10.9,2580.2
+Dandenong,Springvale,23631,11.1,2127.9
+Knox,Boronia,23447,11.3,2081.8
+Frankston,Frankston,23964,11.6,2061.5
+Kingston,Moorabbin - Heatherton,9564,11.7,817.5
+Tullamarine - Broadmeadows,Craigieburn - South,19511,11.9,1637.5
+Banyule,Montmorency - Briar Hill,16991,12,1412.6
+Whittlesea - Wallan,Lalor,24757,12.1,2052.9
+Tullamarine - Broadmeadows,Roxburgh Park - Somerton,24429,12.3,1987.7
+Ballarat,Ballarat,12175,12.4,983.5
+Frankston,Seaford (Vic.),17377,12.4,1397.8
+Yarra Ranges,Mooroolbark,23723,12.5,1891.3
+Geelong,Geelong,13498,12.8,1053.1
+Casey - South,Cranbourne West,18604,12.9,1442.4
+Brimbank,Sunshine West,20121,13,1551.5
+Casey - South,Cranbourne,21269,13,1632.7
+Bendigo,Flora Hill - Spring Gully,9601,13.2,727.2
+Frankston,Frankston North,19966,13.2,1508.2
+Casey - South,Hampton Park - Lynbrook,27466,13.3,2058.6
+Tullamarine - Broadmeadows,Craigieburn - North,13152,13.4,985.1
+Knox,Wantirna South,18850,13.4,1411.4
+Whittlesea - Wallan,South Morang (North),13231,13.7,965.1
+Tullamarine - Broadmeadows,Gladstone Park - Westmeadows,18655,13.9,1338.6
+Casey - North,Endeavour Hills - North,12514,14.5,864.5
+Whittlesea - Wallan,Doreen,25171,14.5,1740.5
+Frankston,Frankston South,19216,14.6,1319.8
+Whittlesea - Wallan,Thomastown,21592,14.7,1470.3
+Nillumbik - Kinglake,Hurstbridge,3625,14.8,244.2
+Casey - North,Berwick - South,28497,14.9,1918.3
+Knox,Knoxfield - Scoresby,16763,15.3,1098.1
+Whittlesea - Wallan,Epping - South,8778,15.9,553.1
+Bendigo,Bendigo,14735,16,922.4
+Manningham - West,Templestowe,17730,16.1,1100
+Hobsons Bay,Altona North,15195,16.2,938.9
+Yarra Ranges,Mount Evelyn,10209,17,600.9
+Bendigo,East Bendigo - Kennington,13784,17.1,803.8
+Keilor,Keilor,9066,17.5,517.7
+Hobsons Bay,Altona,13711,17.7,775.3
+Tullamarine - Broadmeadows,Campbellfield - Coolaroo,17218,18.2,946.7
+Knox,Lysterfield,7013,18.5,379.2
+Brimbank,Taylors Lakes,18400,18.5,996.6
+Wyndham,Point Cook - East,16025,19,841.8
+Nillumbik - Kinglake,Eltham,24205,19.5,1242
+Casey - North,Berwick - North,24037,19.7,1217.2
+Frankston,Skye - Sandhurst,14084,19.8,710.8
+Frankston,Carrum Downs,22082,20.3,1087.4
+Manningham - East,Donvale - Park Orchards,16875,20.8,811.2
+Mornington Peninsula,Mornington,25913,21.1,1228.5
+Brimbank,Deer Park - Derrimut,28708,21.3,1345.6
+Geelong,North Geelong - Bell Park,15402,21.9,702.3
+Wyndham,Laverton,10949,22.2,492.2
+Yarra Ranges,Chirnside Park,10987,22.2,494.9
+Mornington Peninsula,Mount Eliza,19022,23.2,819.6
+Whittlesea - Wallan,Mernda,21488,23.8,902
+Mornington Peninsula,Rosebud - McCrae,22087,23.8,928.2
+Melton - Bacchus Marsh,Melton West,19964,24.2,824.9
+Mildura,Mildura - North,18658,25.1,742.9
+Nillumbik - Kinglake,Wattle Glen - Diamond Creek,14561,26.8,542.8
+Wyndham,Truganina,30249,27.2,1113.5
+Geelong,Leopold,13753,27.9,492.4
+Nillumbik - Kinglake,Plenty - Yarrambat,9930,29.1,341
+Mornington Peninsula,Mount Martha,19773,30.2,654.5
+Dandenong,Keysborough,29852,30.3,985.9
+Geelong,Geelong West - Hamlyn Heights,20570,32,642.1
+Ballarat,Ballarat - South,25389,32.9,772.8
+Bendigo,California Gully - Eaglehawk,12676,33,383.7
+Ballarat,Delacombe,7874,34.2,230.5
+Casey - North,Narre Warren North,8549,34.4,248.5
+Cardinia,Pakenham - North,21641,37.2,581.4
+Frankston,Langwarrin,25156,37.6,668.7
+Shepparton,Mooroopna,8087,40,202.3
+Geelong,Highton,23449,40.6,577.7
+Bendigo,Kangaroo Flat - Golden Square,20329,40.9,496.9
+Cardinia,Beaconsfield - Officer,17577,41.2,426.9
+Casey - South,Cranbourne East,41381,42.9,964.8
+Bendigo,Maiden Gully,5382,43,125.2
+Geelong,Newcomb - Moolap,14949,43.3,345.3
+Mornington Peninsula,Dromana,12325,45.1,273.5
+Maryborough - Pyrenees,Maryborough (Vic.),8074,45.5,177.3
+Wellington,Sale,15021,45.6,329.4
+Manningham - East,Warrandyte - Wonga Park,10657,45.8,232.9
+Nillumbik - Kinglake,Research - North Warrandyte,7055,49.8,141.7
+Cardinia,Pakenham - South,32087,49.8,644.9
+Mildura,Mildura - South,15120,51,296.5
+Ballarat,Buninyong,7583,51.6,147
+Ballarat,Alfredton,13291,52.7,252.1
+Whittlesea - Wallan,Wollert,13723,53.9,254.6
+Colac - Corangamite,Colac,12547,54.7,229.2
+Yarra Ranges,Belgrave - Selby,10452,55.7,187.8
+Geelong,Grovedale,27559,55.7,494.7
+Wangaratta - Benalla,Wangaratta,19318,57.6,335.5
+Surf Coast - Bellarine Peninsula,Point Lonsdale - Queenscliff,4400,61.7,71.3
+Dandenong,Dandenong,33923,61.8,548.7
+Wyndham,Tarneit,43403,62.1,698.4
+Warrnambool,Warrnambool - North,21975,62.4,352.1
+Glenelg - Southern Grampians,Portland,10900,64,170.4
+Surf Coast - Bellarine Peninsula,Clifton Springs,14637,65.1,224.7
+Shepparton,Shepparton - North,19381,65.7,295.2
+Melton - Bacchus Marsh,Hillside,24151,66.5,362.9
+Mornington Peninsula,Point Nepean,18433,67.2,274.4
+Ballarat,Wendouree - Miners Rest,15012,67.6,222.2
+Bendigo,White Hills - Ascot,13130,67.8,193.7
+Yarra Ranges,Monbulk - Silvan,5859,68.6,85.5
+Tullamarine - Broadmeadows,Mickleham - Yuroke,7361,70.6,104.2
+Surf Coast - Bellarine Peninsula,Portarlington,7915,71.9,110.2
+Macedon Ranges,Macedon,3606,73,49.4
+Upper Goulburn Valley,Seymour,6423,79.3,81
+Geelong,Corio - Norlane,27440,80.8,339.5
+Casey - South,Cranbourne South,10256,81.7,125.6
+Yarra Ranges,Mount Dandenong - Olinda,10137,81.9,123.8
+Grampians,Horsham,16514,83.1,198.8
+Macedon Ranges,Riddells Creek,4281,83.4,51.4
+Heathcote - Castlemaine - Kyneton,Castlemaine,11047,83.9,131.6
+Latrobe Valley,Morwell,14026,85.5,164.1
+Mildura,Irymple,7090,88.3,80.3
+Ballarat,Ballarat - North,24147,92.4,261.5
+Moira,Yarrawonga,8291,95,87.3
+Tullamarine - Broadmeadows,Greenvale - Bulla,19380,95.9,202.1
+Colac - Corangamite,Camperdown,3537,98.1,36
+Casey - South,Pearcedale - Tooradin,8156,98.5,82.8
+Gippsland - South West,Phillip Island,11416,100.6,113.5
+Mildura,Merbein,4885,101.8,48
+Ballarat,Smythes Creek,4021,104.7,38.4
+Latrobe Valley,Moe - Newborough,16812,105.3,159.7
+Mornington Peninsula,Hastings - Somers,23345,108.9,214.4
+Yarra Ranges,Lilydale - Coldstream,19781,109.4,180.8
+Melton - Bacchus Marsh,Melton South,28613,111,257.9
+Yarra Ranges,Wandin - Seville,8056,111.8,72.1
+Wyndham,Werribee - South,13113,114,115
+Mornington Peninsula,Somerville,19271,117.4,164.2
+Warrnambool,Warrnambool - South,13239,120.2,110.1
+Melton - Bacchus Marsh,Rockbank - Mount Cottrell,6455,125.8,51.3
+Surf Coast - Bellarine Peninsula,Torquay,20668,126.3,163.6
+Murray River - Swan Hill,Swan Hill,11103,126.6,87.7
+Wyndham,Werribee - West,14315,127.7,112.1
+Wyndham,Wyndham Vale,27218,128.2,212.2
+Sunbury,Sunbury,13397,129.5,103.4
+Melton - Bacchus Marsh,Melton,20188,130.7,154.5
+Sunbury,Sunbury - South,29374,131.1,224
+Moira,Cobram,6422,131.5,48.8
+Shepparton,Shepparton - South,24163,143.3,168.6
+Murray River - Swan Hill,Kerang,3885,146.6,26.5
+Latrobe Valley,Traralgon,27958,149.7,186.8
+Wodonga - Alpine,West Wodonga,15323,153.9,99.6
+Gippsland - East,Bairnsdale,15411,155,99.4
+Surf Coast - Bellarine Peninsula,Ocean Grove - Barwon Heads,26648,157,169.8
+Grampians,Ararat,8413,161.2,52.2
+Murray River - Swan Hill,Robinvale,3373,181.7,18.6
+Campaspe,Echuca,14934,183.8,81.2
+Barwon - West,Bannockburn,7117,192.1,37.1
+Melton - Bacchus Marsh,Bacchus Marsh,22223,196.3,113.2
+Glenelg - Southern Grampians,Hamilton (Vic.),10120,198.3,51
+Macedon Ranges,Gisborne,13963,211.1,66.2
+Heathcote - Castlemaine - Kyneton,Woodend,7349,211.9,34.7
+Gippsland - East,Lakes Entrance,10304,214,48.1
+Mildura,Red Cliffs,6008,246.7,24.4
+Wodonga - Alpine,Wodonga,26106,278.8,93.6
+Mornington Peninsula,Flinders,5653,287.4,19.7
+Nillumbik - Kinglake,Panton Hill - St Andrews,5496,292.2,18.8
+Whittlesea - Wallan,Whittlesea,8769,298,29.4
+Wangaratta - Benalla,Benalla,10436,315.3,33.1
+Nillumbik - Kinglake,Kinglake,4122,319.5,12.9
+Baw Baw,Drouin,17779,326.8,54.4
+Latrobe Valley,Yallourn North - Glengarry,4645,342.7,13.6
+Campaspe,Rochester,3906,351.6,11.1
+Baw Baw,Warragul,20149,352.2,57.2
+Yarra Ranges,Healesville - Yarra Glen,14512,369.5,39.3
+Wodonga - Alpine,Beechworth,4785,371.3,12.9
+Cardinia,Emerald - Cockatoo,18777,371.6,50.5
+Cardinia,Bunyip - Garfield,9155,373.1,24.5
+Cardinia,Koo Wee Rup,8153,409.4,19.9
+Gippsland - East,Paynesville,6662,417.9,15.9
+Surf Coast - Bellarine Peninsula,Lorne - Anglesea,5407,448,12.1
+Upper Goulburn Valley,Kilmore - Broadford,14921,461.5,32.3
+Wangaratta - Benalla,Rutherglen,4000,479.3,8.3
+Baw Baw,Trafalgar (Vic.),8036,501.5,16
+Whittlesea - Wallan,Wallan,18446,507.7,36.3
+Wodonga - Alpine,Chiltern - Indigo Valley,3126,513.2,6.1
+Wodonga - Alpine,Myrtleford,4724,553.4,8.5
+Heathcote - Castlemaine - Kyneton,Kyneton,10082,556.5,18.1
+Geelong,Lara,19978,588.6,33.9
+Gippsland - South West,Korumburra,9444,600.7,15.7
+Macedon Ranges,Romsey,10043,624.7,16.1
+Wodonga - Alpine,Yackandandah,4627,708.2,6.5
+Gippsland - South West,Wonthaggi - Inverloch,23685,728.8,32.5
+Yarra Ranges,Yarra Valley,16752,729.8,23
+Campaspe,Kyabram,11029,738.9,14.9
+Heathcote - Castlemaine - Kyneton,Heathcote,4635,756.8,6.1
+Latrobe Valley,Churchill,11590,796.5,14.6
+Heathcote - Castlemaine - Kyneton,Bendigo Region - South,7771,796.9,9.8
+Gippsland - South West,Leongatha,11359,801,14.2
+Creswick - Daylesford - Ballan,Gordon (Vic.),5900,850.3,6.9
+Creswick - Daylesford - Ballan,Creswick - Clunes,7998,856.8,9.3
+Barwon - West,Winchelsea,5865,903.3,6.5
+Creswick - Daylesford - Ballan,Daylesford,9261,920.8,10.1
+Maryborough - Pyrenees,Golden Plains - North,4742,922.1,5.1
+Wellington,Rosedale,4870,968.5,5
+Shepparton,Shepparton Region - West,10388,1028.7,10.1
+Creswick - Daylesford - Ballan,Bacchus Marsh Region,6153,1038.8,5.9
+Shepparton,Shepparton Region - East,3881,1055.6,3.7
+Upper Goulburn Valley,Nagambie,4200,1294.3,3.2
+Loddon - Elmore,Bendigo Region - North,4554,1440.2,3.2
+Upper Goulburn Valley,Yea,3732,1474.3,2.5
+Barwon - West,Golden Plains - South,7240,1484.5,4.9
+Moira,Moira,2665,1498.8,1.8
+Gippsland - South West,Foster,8995,1498.8,6
+Colac - Corangamite,Otway,3579,1505.9,2.4
+Heathcote - Castlemaine - Kyneton,Castlemaine Region,8723,1515,5.8
+Wellington,Longford - Loch Sport,4403,1610.8,2.7
+Maryborough - Pyrenees,Maryborough Region,5364,1627.6,3.3
+Campaspe,Rushworth,4054,1633.9,2.5
+Campaspe,Lockington - Gunbower,3874,1646.4,2.4
+Upper Goulburn Valley,Seymour Region,4511,1688.8,2.7
+Maryborough - Pyrenees,Avoca,3352,1714.2,2
+Colac - Corangamite,Corangamite - South,7178,1805.2,4
+Maryborough - Pyrenees,Beaufort,4450,1863,2.4
+Wellington,Yarram,5413,1931.9,2.8
+Colac - Corangamite,Colac Region,5363,1934.3,2.8
+Warrnambool,Moyne - West,9776,2037.8,4.8
+Upper Goulburn Valley,Euroa,6442,2057.9,3.1
+Wangaratta - Benalla,Benalla Region,3659,2105.3,1.7
+Upper Goulburn Valley,Alexandra,6619,2119,3.1
+Moira,Numurkah,12421,2321,5.4
+Wellington,Maffra,14197,2532.3,5.6
+Colac - Corangamite,Corangamite - North,5354,2538.3,2.1
+Grampians,Stawell,8129,2743.4,3
+Baw Baw,Mount Baw Baw Region,6147,2753.3,2.2
+Grampians,St Arnaud,3288,3008.6,1.1
+Warrnambool,Moyne - East,6670,3275.8,2
+Murray River - Swan Hill,Gannawarra,6653,3568.2,1.9
+Wangaratta - Benalla,Wangaratta Region,9769,3587.5,2.7
+Upper Goulburn Valley,Mansfield (Vic.),9253,3927.9,2.4
+Grampians,Ararat Region,3222,4023.2,0.8
+Grampians,Horsham Region,3417,4251.5,0.8
+Wodonga - Alpine,Bright - Mount Beauty,8478,4253.7,2
+Grampians,West Wimmera,2716,5685.9,0.5
+Murray River - Swan Hill,Swan Hill Region,6289,5759.2,1.1
+Glenelg - Southern Grampians,Glenelg (Vic.),8733,6121.2,1.4
+Loddon - Elmore,Loddon,7055,6193.3,1.1
+Glenelg - Southern Grampians,Southern Grampians,6093,6562.6,0.9
+Wodonga - Alpine,Towong,6027,6668.7,0.9
+Grampians,Yarriambiack,6610,7139.6,0.9
+Gippsland - East,Bruthen - Omeo,8088,7377.4,1.1
+Murray River - Swan Hill,Buloke,6187,8068.7,0.8
+Grampians,Nhill Region,6797,11042.8,0.6
+Gippsland - East,Orbost,6475,11384.3,0.6
+,,,,
